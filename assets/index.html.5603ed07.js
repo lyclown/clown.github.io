@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"","lang":"en-US","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"hellow,world","slug":"hellow-world","children":[]}],"git":{"updatedTime":1658216735000,"contributors":[{"name":"\u674E\u8000","email":"liyao04@longfor.com","commits":1}]},"filePathRelative":"README.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as o,o as a,c as r,a as e,b as t}from"./app.e72fdce5.js";const l={},c=e("h2",{id:"hellow-world",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#hellow-world","aria-hidden":"true"},"#"),t(" hellow,world")],-1),d=[c];function n(s,_){return a(),r("div",null,d)}var i=o(l,[["render",n],["__file","index.html.vue"]]);export{i as default};
